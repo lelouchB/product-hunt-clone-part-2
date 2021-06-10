@@ -1,9 +1,9 @@
-# Product Hunt Clone - Part 12
+# Product Hunt Clone - Part 2
 ### Built with Next.js using Auth0, Cloudinary and Airtable.
 
-![Screenshot 2021-06-06 at 16-44-12 Product Hunt Clone](https://user-images.githubusercontent.com/45850882/120922387-7b661f00-c6e6-11eb-8723-527d6ce17bcb.png)
+![Web capture_10-6-2021_12319_localhost](https://user-images.githubusercontent.com/45850882/121476100-e3b54900-c9e3-11eb-9423-211d4b13baa5.jpeg)
 
-####  Part 122 of the Product Hunt Clone tutorial. Refer to Product Hunt Clone for complete app.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
